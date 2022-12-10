@@ -15,7 +15,7 @@
   "dependencies": {
     "apiai": "^2.0.7",
     "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "request": "^2.88.0",
     "uuid": "^2.0.3"
   }
